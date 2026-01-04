@@ -37,7 +37,7 @@ This production-ready machine learning pipeline leverages state-of-the-art techn
 <br>XGBoost + GPU
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/graph. png" width="64" alt="Analytics"/>
+<img src="https://img.icons8.com/fluency/96/000000/graph.png" width="64" alt="Analytics"/>
 <br><b>Deep Analytics</b>
 <br>SHAP Explainability
 </td>
